@@ -42,6 +42,7 @@ Example:
 
 node index.js add --title="Shopping List" --body="Buy milk, eggs, and bread"
 ```
+
 2. Remove a Note
 
 To remove a note, use the remove command with the title of the note you want to delete.
@@ -91,6 +92,7 @@ Example:
 ```bash
 node index.js update --title="Shopping List" --body="Buy milk, eggs, bread, and butter"
 ```
+<img src="image.png" alt="Initial State" width="600"/>
 
 ## Notes Storage
 Notes are stored in a notes.json file located in the project directory. This file is automatically created when you add a note.
